@@ -1,5 +1,5 @@
 {
-    "name": "dotzero/laravel-amocrm",
+    "name": "sergey178/laravel-amocrm",
     "description": "ServiceProvider и Facade для Laravel 5 предоставляющие интеграцию с API amoCRM",
     "license": "MIT",
     "keywords": ["laravel", "amocrm", "crm", "api"],
